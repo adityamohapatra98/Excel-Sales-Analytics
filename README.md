@@ -12,6 +12,7 @@
 - **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
 
 - **Role of reports:**
+  
     **1.** Identify effective customer discounts.
   
     **2.** Aid in negotiations with consumers.
@@ -25,17 +26,21 @@
 
     **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/adityamohapatra98/Excel-Sales-Analytics/blob/main/P%26L%20Report%20by%20Year.pdf)_.
 
-   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/adityamohapatra98/Excel-Sales-Analytics/blob/main/P%20%26%20L%20report%20by%20market.pdf)_.
+    **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/adityamohapatra98/Excel-Sales-Analytics/blob/main/P%20%26%20L%20report%20by%20market.pdf)_.
 
 - **Purpose of sales analytics:** Assess financial performance, support decision-making, and facilitate stakeholder communication.
 
 - **Importance of analyzing Finance data:**
-- [x] Benchmark against industry standards and previous periods.
-- [x] Provide a basis for budgeting and forecasting.
+  
+    **1.** Benchmark against industry standards and previous periods.
+  
+    **2.** Provide a basis for budgeting and forecasting.
 
 - **Role of reports:**
-- [x] Align financial planning with strategic goals.
-- [x] Build confidence in the organization's financial outlook.
+  
+    **1.** Align financial planning with strategic goals.
+  
+    **2.** Build confidence in the organization's financial outlook.
 
 
 ## Technical & Soft Skills:
