@@ -12,9 +12,9 @@
 - **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
 
 - **Role of reports:**
-- [x] Identify effective customer discounts.
-- [x] Aid in negotiations with consumers.
-- [x] Explore potential opportunities for business expansion in promising countries.
+    **1.** Identify effective customer discounts.
+    **2.** Aid in negotiations with consumers.
+    **3.** Explore potential opportunities for business expansion in promising countries.
 
 
 ## Finance Report :
